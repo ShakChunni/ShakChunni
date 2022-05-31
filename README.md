@@ -5,6 +5,6 @@
 
 ## I am currently a student, in my 3rd year of undergrad degree 😴
 
-- 🌱 I’m currently learning FullStack Development & React 😎
-- 🥅 2022 Goals: Learn everyhting about Web Development & IOS app Development 
+- 🌱 I’m currently learning JavaScript & React 😎
+- 🥅 2022 Goals: Learn everyhting about Web Development 
 - ⚡ Fun fact: I love to play video games 😂 
