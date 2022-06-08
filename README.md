@@ -4,5 +4,5 @@
 
 
 - 🌱 I’m currently learning JavaScript & React 😎
-- 🥅 2022 Goals: Learn everyhting about Web Development 
-- ⚡ Fun fact: I love to play video games 😂 
+- 🥅 2022 Goals: Learn everyhting about Web Development & Flutter
+- ⚡ Fun fact: I love to watch tons of animes and read mangas 😂 
