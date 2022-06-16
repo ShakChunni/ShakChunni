@@ -1,6 +1,6 @@
 ### Hi there👋
 
-## I am Ashfaq, currently a student, doing undergrad at BRAC University
+## I am Ashfaq, currently a student, doing my bachelor at BRAC University
 
 
 - 🌱 I’m currently learning JavaScript & React 😎
