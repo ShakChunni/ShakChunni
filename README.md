@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React Native, JavaScript..**
 
-- 💬 Ask me about **Animes, Mangas, Manhwas**
 
 - 📫 How to reach me **ashfaq601230@gmail.com**
+
 
 - ⚡ Fun fact **Beyond coding with Super Saiyan might, I embrace the realms of anime, manga, and manwhas—a rhythmic ninja developer with a passion for all!**
 
