@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/__shakchunni__" target="blank"><img src="https://img.shields.io/twitter/follow/__shakchunni__?logo=twitter&style=for-the-badge" alt="__shakchunni__" /></a> </p>
 
-- 🔭 I’m currently working on [FilmFave](https://github.com/ShakChunni/SocialWhisper)
+- 🔭 I’m currently working on [SocialWhisper](https://github.com/ShakChunni/SocialWhisper)
 
 - 🌱 I’m currently learning **React Native & Flutter**
 
