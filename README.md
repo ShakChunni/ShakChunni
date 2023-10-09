@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/__shakchunni__" target="blank"><img src="https://img.shields.io/twitter/follow/__shakchunni__?logo=twitter&style=for-the-badge" alt="__shakchunni__" /></a> </p>
 
-- 🔭 I’m currently working on [Clinique-accounts]([https://github.com/ShakChunni/InnateInsight](https://github.com/ShakChunni/clinique-account-management))
+- 🔭 I’m currently working on [Clinique-accounts]([https://github.com/ShakChunni/clinique-account-management])
 
 - 🌱 I’m currently learning **React Native & Flutter**
 
