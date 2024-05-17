@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/ShakChunni/clinique-account-management" style="text-decoration:none">Clinique-accounts</a>
 
 
-- 🌱 I’m currently learning **React Native & Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 
 - 📫 How to reach me **ashfaq601230@gmail.com**
