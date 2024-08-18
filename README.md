@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__shakchunni__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__shakchunni__" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shakchunni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shakchunni" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/shakchunni](https://stackoverflow.com/users/13563401/shakchunni)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shakchunni" height="30" width="40" /></a>
 <a href="https://fb.com/shakchhunni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakchhunni" height="30" width="40" /></a>
 </p>
 
