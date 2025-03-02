@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashfaq601230@gmail.com**
 
-📄 Know about my experiences [CV](https://drive.google.com/file/d/1CaPwPY927JWK0l2Em9GOYeUF5Apw1eDu/view?usp=sharing)
+📄 Know about my experiences [CV](https://drive.google.com/file/d/1ElqyTR5yDQEhp4BDKrChfjo7iojxqPix/view?usp=sharing)
 
 - ⚡ Fun fact **Fun fact Beyond coding with Super Saiyan might, I embrace the realms of anime, manga, and manwhas—a rhythmic ninja developer with a passion for all!**
 
