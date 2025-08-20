@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Ashfaq 👋</h1>
-
-# 🙋‍♂️ Who I Am
 <p align="justify">
 I’m a full‑stack software engineer who enjoys building thoughtful, end‑to‑end solutions, whether it’s a robust web app or a clean, responsive interface. I like solving real‑world problems with code and continuously improving how things work behind the scenes. Lately, I’ve become increasingly interested in cybersecurity and I’m exploring ways to bring that focus into my work. With a background in both development and research, I’m eager to keep learning and grow into roles that combine secure systems with solid engineering.
 </p>
