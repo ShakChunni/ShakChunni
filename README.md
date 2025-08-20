@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Ashfaq 👋</h1>
 
+# 🙋‍♂️ Who I Am
 <p align="justify">
 I’m a full‑stack software engineer who enjoys building thoughtful, end‑to‑end solutions, whether it’s a robust web app or a clean, responsive interface. I like solving real‑world problems with code and continuously improving how things work behind the scenes. Lately, I’ve become increasingly interested in cybersecurity and I’m exploring ways to bring that focus into my work. With a background in both development and research, I’m eager to keep learning and grow into roles that combine secure systems with solid engineering.
 </p>
 
-# About Me
+## About Me
 - I’m currently working on a **custom SaaS solution for internal CRM and influencer discovery** (built with Next.js)  
 - I’m currently learning **Next.js** and **modern cybersecurity practices** (governance, risk management, and secure‑by‑design)  
 - Ask me about **system architecture, software development, automation, AI integration, and digital security practices**  
 - How to reach me: **ashfaq601230@gmail.com**  
 - CV: **[View here](https://drive.google.com/file/d/1Ef_Iff9hWS9-4QQ4TjIbN4AY3prpT4Wi/view?usp=sharing)**
 
-# Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f-m-ashfaq)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__ShakChunni__)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ShakChunni)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ShakChunni)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashfaq601230@gmail.com)
 
-# Tech Stack
+## Tech Stack
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -64,7 +65,7 @@ I’m a full‑stack software engineer who enjoys building thoughtful, end‑to�
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-# GitHub Stats
+## GitHub Stats
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
