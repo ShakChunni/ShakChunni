@@ -1,28 +1,26 @@
 <h1 align="center">Hi, I'm Ashfaq 👋</h1>
 
-<p align="center">
+<p align="justify">
 I’m a full‑stack software engineer who enjoys building thoughtful, end‑to‑end solutions, whether it’s a robust web app or a clean, responsive interface. I like solving real‑world problems with code and continuously improving how things work behind the scenes. Lately, I’ve become increasingly interested in cybersecurity and I’m exploring ways to bring that focus into my work. With a background in both development and research, I’m eager to keep learning and grow into roles that combine secure systems with solid engineering.
 </p>
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on a **custom SaaS solution for internal CRM and influencer discovery** (built with Next.js)<br>
-👯 I’m not currently looking to collaborate<br>
-🤝 I’m not currently looking for help<br>
-🌱 I’m currently learning **Next.js**<br>
-💬 Ask me about **automation, AI integration, system architecture, and digital security practices**<br>
-📫 How to reach me: **ashfaq601230@gmail.com**
+# About Me
+- I’m currently working on a **custom SaaS solution for internal CRM and influencer discovery** (built with Next.js)  
+- I’m currently learning **Next.js** and **modern cybersecurity practices** (governance, risk management, and secure‑by‑design)  
+- Ask me about **system architecture, software development, automation, AI integration, and digital security practices**  
+- How to reach me: **ashfaq601230@gmail.com**  
+- CV: **[View here](https://drive.google.com/file/d/1Ef_Iff9hWS9-4QQ4TjIbN4AY3prpT4Wi/view?usp=sharing)**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.__ashfaq__._)
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f-m-ashfaq)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ShakChunni)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ShakChunni)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__ShakChunni__)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashfaq601230@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ShakChunni)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ShakChunni)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashfaq601230@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,26 +66,26 @@ I’m a full‑stack software engineer who enjoys building thoughtful, end‑to�
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-# 📊 GitHub Stats:
-<table>
+# GitHub Stats
+<table align="center" width="100%">
   <tr>
-    <td>
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=shakchunni&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
     </td>
-    <td>
+    <td align="center" width="50%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=shakchunni&theme=onedark&hide_border=false" alt="GitHub streak" />
     </td>
   </tr>
 </table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakchunni&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakchunni&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shakchunni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
