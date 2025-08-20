@@ -79,7 +79,7 @@ I’m a full‑stack software engineer who enjoys building thoughtful, end‑to�
 </table>
 
 <p align="center">
-  <img width="90%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakchunni&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=300" alt="Top Languages" />
+  <img width="90%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakchunni&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=300" alt="Top Languages" />
 </p>
 
 ## GitHub Trophies
