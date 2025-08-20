@@ -11,7 +11,7 @@ I’m a full‑stack software engineer who enjoys building thoughtful, end‑to�
 - How to reach me: **ashfaq601230@gmail.com**  
 - CV: **[View here](https://drive.google.com/file/d/1Ef_Iff9hWS9-4QQ4TjIbN4AY3prpT4Wi/view?usp=sharing)**
 
-## Socials
+# Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f-m-ashfaq)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__ShakChunni__)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ShakChunni)
