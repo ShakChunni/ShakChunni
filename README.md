@@ -71,7 +71,7 @@ I’m a full-stack developer with a growing research focus in cybersecurity, app
       <img src="https://github-readme-stats.vercel.app/api?username=shakchunni&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=shakchunni&theme=onedark&hide_border=false" alt="GitHub streak" />
+      <img src="https://streak-stats.demolab.com?user=shakchunni&theme=onedark&hide_border=false" alt="GitHub streak" />
     </td>
   </tr>
 </table>
