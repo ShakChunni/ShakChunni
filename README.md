@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Ashfaq 👋</h1>
 <p align="justify">
-I’m a full‑stack software engineer who enjoys building thoughtful, end‑to‑end solutions, whether it’s a robust web app or a clean, responsive interface. I like solving real‑world problems with code and continuously improving how things work behind the scenes. Lately, I’ve become increasingly interested in cybersecurity and I’m exploring ways to bring that focus into my work. With a background in both development and research, I’m eager to keep learning and grow into roles that combine secure systems with solid engineering.
+I’m a full-stack developer with a growing research focus in cybersecurity, applied machine learning, and secure systems. I enjoy building thoughtful, end-to-end solutions, from robust web platforms to research pipelines that turn ideas into testable systems. Lately, my work has become more research-oriented, especially around post-quantum security for IoT/edge communication, defensive cybersecurity, and vision-based ML for practical assistive applications. I like solving real-world problems with code, validating ideas through experiments, and building systems that are reliable, useful, and grounded in real technical challenges.
 </p>
 
 ## About Me
-- I’m currently working on a **custom SaaS solution for internal CRM and influencer discovery** (built with Next.js)  
-- I’m currently learning **Next.js** and **modern cybersecurity practices** (governance, risk management, and secure‑by‑design)  
-- Ask me about **system architecture, software development, automation, AI integration, and digital security practices**  
+- I’m currently working across **research engineering projects in cybersecurity, post-quantum secure systems, and applied vision ML**  
+- I’m especially interested in **post-quantum cryptography for IoT/edge environments**, **secure-by-design systems**, and **practical ML for accessibility-focused applications**  
+- I also build **full-stack applications** using tools like **Next.js, TypeScript, PostgreSQL, Prisma, and modern cloud platforms**  
+- Ask me about **system architecture, software development, automation, AI integration, applied ML pipelines, and cybersecurity research workflows**  
 - How to reach me: **ashfaq601230@gmail.com**  
 - CV: **[View here](https://drive.google.com/file/d/1Ef_Iff9hWS9-4QQ4TjIbN4AY3prpT4Wi/view?usp=sharing)**
 
