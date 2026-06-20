@@ -9,7 +9,7 @@ I’m a full-stack developer with a growing research focus in cybersecurity, app
 - I also build **full-stack applications** using tools like **Next.js, TypeScript, PostgreSQL, Prisma, and modern cloud platforms**  
 - Ask me about **system architecture, software development, automation, AI integration, applied ML pipelines, and cybersecurity research workflows**  
 - How to reach me: **ashfaq601230@gmail.com**  
-- CV: **[View here](https://drive.google.com/file/d/1Ef_Iff9hWS9-4QQ4TjIbN4AY3prpT4Wi/view?usp=sharing)**
+- CV: **[View here](https://drive.google.com/file/d/1eGps7LC87C5KBIEMGb0eVCOOYqm-ZL73/view?usp=sharing)**
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f-m-ashfaq)
