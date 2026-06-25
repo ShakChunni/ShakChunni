@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ashfaq 👋</h1>
 <p align="justify">
-I’m a full-stack developer with a growing research focus in cybersecurity, applied machine learning, and secure systems. I enjoy building thoughtful, end-to-end solutions, from robust web platforms to research pipelines that turn ideas into testable systems. Lately, my work has become more research-oriented, especially around post-quantum security for IoT/edge communication, defensive cybersecurity, and vision-based ML for practical assistive applications. I like solving real-world problems with code, validating ideas through experiments, and building systems that are reliable, useful, and grounded in real technical challenges.
+I’m a full-stack software engineer with a growing research focus in cybersecurity, applied machine learning, and secure systems. I enjoy building thoughtful, end-to-end solutions, from robust web platforms to research pipelines that turn ideas into testable systems. Lately, my work has become more research-oriented, especially around post-quantum security for IoT/edge communication, defensive cybersecurity, and vision-based ML for practical assistive applications. I like solving real-world problems with code, validating ideas through experiments, and building systems that are reliable, useful, and grounded in real technical challenges.
 </p>
 
 ## About Me
